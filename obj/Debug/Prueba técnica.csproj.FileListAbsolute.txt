@@ -1,0 +1,17 @@
+C:\Users\casa\source\repos\Prueba técnica\bin\Debug\Prueba técnica.exe.config
+C:\Users\casa\source\repos\Prueba técnica\bin\Debug\Prueba técnica.exe
+C:\Users\casa\source\repos\Prueba técnica\bin\Debug\Prueba técnica.pdb
+C:\Users\casa\source\repos\Prueba técnica\obj\Debug\Prueba técnica.csproj.AssemblyReference.cache
+C:\Users\casa\source\repos\Prueba técnica\obj\Debug\Prueba_técnica.Presentacion.frmJugador.resources
+C:\Users\casa\source\repos\Prueba técnica\obj\Debug\Prueba_técnica.Inicio.resources
+C:\Users\casa\source\repos\Prueba técnica\obj\Debug\Prueba_técnica.Properties.Resources.resources
+C:\Users\casa\source\repos\Prueba técnica\obj\Debug\Prueba técnica.csproj.GenerateResource.cache
+C:\Users\casa\source\repos\Prueba técnica\obj\Debug\Prueba técnica.csproj.CoreCompileInputs.cache
+C:\Users\casa\source\repos\Prueba técnica\obj\Debug\Prueba técnica.exe
+C:\Users\casa\source\repos\Prueba técnica\obj\Debug\Prueba técnica.pdb
+C:\Users\casa\source\repos\Prueba técnica\obj\Debug\Prueba_técnica.Presentacion.frmAlineacion.resources
+C:\Users\casa\source\repos\Prueba técnica\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\casa\source\repos\Prueba técnica\bin\Debug\itextsharp.dll
+C:\Users\casa\source\repos\Prueba técnica\bin\Debug\itextsharp.xml
+C:\Users\casa\source\repos\Prueba técnica\obj\Debug\Prueba técnica.csproj.CopyComplete
+C:\Users\casa\source\repos\Prueba técnica\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll

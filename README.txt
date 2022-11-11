@@ -1,0 +1,3 @@
+Al agregar los jugadores a la alineación éstos se deben ingresar en el orden en que se van a ubicar en la cancha (de izquiera a derecha). Por ejemplo, si se quiere ingresar los delanteros primero se ingresa el delantero que juega por la izquierda, luego el/los centrales o por último el que juega por la derecha).
+
+Para agregar jugadores primero se debe seleccionar la alineación (doble click en la lista).
